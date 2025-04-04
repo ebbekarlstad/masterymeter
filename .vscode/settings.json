@@ -1,0 +1,22 @@
+// Workspace settings
+{
+    // Hide files and folders we don't need often,
+    // to avoid unwanted editing or additions to them
+    "files.exclude": {
+        "node_modules": true,
+        ".next": true,
+        "next-env.d.ts": true,
+        "package-lock.json": true,
+        "postcss.config.mjs": true,
+        "tailwind.config.ts": true,
+        //"tailwind.config.js": true,
+        "next.config.ts": true,
+        "package.json": true,
+        "tsconfig.json": true,
+        ".gitignore": true,
+        ".prettierrc": true,
+        ".prettierignore": true,
+        "eslint.config.mjs": true,
+        "postcss.config.js": true
+    }
+}
