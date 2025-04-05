@@ -18,6 +18,6 @@
         ".prettierignore": true,
         "eslint.config.mjs": true,
         "postcss.config.js": true,
-        "components.json": true
+        //"components.json": true
     }
 }
