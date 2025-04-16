@@ -1,6 +1,12 @@
 # MasteryMeter ⚡
 
-![Project Screenshot](/public/mockup.png)
+<p align="center">
+  <img 
+    src="/public/mockup.png" 
+    width="300" 
+    alt="Brawl Stars Mastery Calculator Preview"
+  >
+</p>
 
 A mobile-friendly tool that calculates the wins needed to reach Mastery Levels in Brawl Stars! 🎮
 
