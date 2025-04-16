@@ -3,7 +3,7 @@
 <p align="center">
   <img 
     src="/public/mockup.png" 
-    width="300" 
+    width="220" 
     alt="Brawl Stars Mastery Calculator Preview"
   >
 </p>
